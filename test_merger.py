@@ -1,7 +1,7 @@
 from array import array
 from unittest import TestCase
 
-from sorter import merge_sorted_arrays
+from merger import merge_sorted_arrays
 
 
 class MergerTest(TestCase):
